@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0; }
+
+header {
+  background-color: #575968;
+  margin-top: 10px;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  header .header_container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 65.6623376vw; }
+    header .header_container img {
+      margin-left: 10px; }
+    header .header_container .menu {
+      width: 100%;
+      display: flex;
+      justify-content: space-around; }
+    header .header_container a {
+      text-decoration: none;
+      color: #fff;
+      font-size: 20px; }
+
+/*# sourceMappingURL=style.css.map */
