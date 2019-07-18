@@ -1,5 +1,5 @@
 # course_project
-https://lardareon.github.io/course_project/
+https://nahrebetskyipavel.github.io/course_project/
 
 1925 = 100% - backgrount
 
